@@ -3,7 +3,7 @@
 client_id = "52655918ab289acaa0d02d20939379f4"
 name = "my-new-awesome-app"
 handle = "my-new-awesome-app-145"
-application_url = "https://environmental-sleeping-academy-dl.trycloudflare.com"
+application_url = "https://twist-florence-residents-facility.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://environmental-sleeping-academy-dl.trycloudflare.com/auth/callback",
-  "https://environmental-sleeping-academy-dl.trycloudflare.com/auth/shopify/callback",
-  "https://environmental-sleeping-academy-dl.trycloudflare.com/api/auth/callback"
+  "https://twist-florence-residents-facility.trycloudflare.com/auth/callback",
+  "https://twist-florence-residents-facility.trycloudflare.com/auth/shopify/callback",
+  "https://twist-florence-residents-facility.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
